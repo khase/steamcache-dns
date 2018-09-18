@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM hypriot/rpi-alpine-scratch:latest
 MAINTAINER SteamCache.Net Team <team@steamcache.net>
 
 ENV STEAMCACHE_DNS_VERSION 1
